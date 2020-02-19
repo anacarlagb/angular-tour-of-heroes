@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\heroes"
+  ],
+  "SelectedNode": "\\src\\app\\heroes\\heroes.component.html",
+  "PreviewInSolutionExplorer": false
+}
