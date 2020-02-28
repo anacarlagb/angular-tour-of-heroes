@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\e2e",
-    "\\e2e\\src",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\dashboard",
+    "\\src\\app\\hero-detail",
+    "\\src\\app\\hero-search",
     "\\src\\app\\heroes",
-    "\\src\\app\\messages"
+    "\\src\\app\\messages",
+    "\\src\\assets",
+    "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\app\\heroes\\heroes.component.ts",
+  "SelectedNode": "\\src\\app\\messages\\messages.component.html",
   "PreviewInSolutionExplorer": false
 }
